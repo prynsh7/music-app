@@ -3078,10 +3078,12 @@ ul.accordion-list li div.answer p {
 	.section-heading{
 		margin-bottom: 55px !important;
 	}
-	.image-card{
-		margin-bottom: 35px;
+	.image-card-mob{
+		padding-bottom: 35px;
 	}
-
+	.img-fluid-award {
+		max-width: 358px !important;
+	}	
 	.about_area_childhood::before{
 		right:0px !important;
 		background-image: none;
@@ -3226,7 +3228,7 @@ ul.accordion-list li div.answer p {
     align-items: center !important;
 	margin-right: 15px !important;
     }
-	.bg-overlay{
+	.bg-mob{
 	background-position: center !important;
     background-size: 100% 100% !important;
 	}
